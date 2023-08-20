@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'https://ad.worshipcenterdowntown.com/';
+$config['base_url'] = 'https://admin.wcdt.online/';
 
 /*
 |--------------------------------------------------------------------------
